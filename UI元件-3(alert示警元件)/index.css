@@ -1,0 +1,37 @@
+.frame{
+    display: flex;
+}
+
+.alert{
+    padding: 15px 20px;
+}
+.alert-primary{
+    border: 2px solid green;
+    background-color: rgb(215, 231, 192);
+}
+
+.alert-success{
+    border: 2px solid rgb(42, 20, 123);
+    background-color: rgb(162, 203, 241);
+}
+
+.alert-danger{
+    border: 2px solid rgb(239, 23, 41);
+    background-color: rgb(254, 199, 199);
+}
+
+.alert-warning{
+    border: 2px solid rgb(245, 125, 34);
+    background-color: rgb(250, 186, 141);
+}
+
+.btn-close{
+    border:  1px solid black;
+    border-radius: 50%;
+    background-color: #ffffff00;
+    font-weight: border;
+}
+
+.btn-close:hover{
+    font-size: 1em;
+}
