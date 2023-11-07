@@ -1,0 +1,20 @@
+button{
+    padding: 5px 8px;
+    letter-spacing: 1px;
+    margin-top: 5px;
+}
+.success{
+    background-color: rgb(207, 224, 182);
+    border: 2px solid green;
+}
+.error{
+    background-color: #dd6f6f;
+    border: 2px solid rgb(211, 33, 33);
+    color: #fff;
+}
+
+.toast{
+    display: none;
+}
+
+
